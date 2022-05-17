@@ -5,6 +5,7 @@ description: |
 output_dir: "_site"
 navbar:
   left:
+  menu:
     - text: "Proposal version 1"
       href: proposal1.html
       
