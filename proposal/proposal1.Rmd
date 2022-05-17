@@ -1,23 +1,42 @@
 ---
-title: "VA Challenge 2022 - proposal by Group 10"
+title: "VAST Challenge 2022 - Proposal by Group 10"
 description: |
-  A new article created using the Distill format.
+  This proposal is to analyze economics of VAST Challenge 2022 (challenge 3), including the business growth prospect, financial health of residents, and employment, with visual analytics  . 
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Group 10 (David Kwok Wei Xiang; Li Hongyi, Huang Yaping)
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+
 date: "`r Sys.Date()`"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+### Proposal Overview 
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+Proposal introduciton xxxxx. 
+
+### Part 1: Business Prosperity 
+
+This part we discuss xxx, as shown below: 
+
+'![](image/image1.png)'
+
+### Part 2: Financial Health of Residents 
+
+xxxx
+
+### Part 3: Employment
+
+xx
+
+### Summary 
 
 
 
