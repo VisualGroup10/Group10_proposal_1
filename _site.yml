@@ -4,6 +4,10 @@ description: |
   My Website
 output_dir: "_site"
 navbar:
+  left:
+    - text: "Proposal version 1"
+      href: proposal1.html
+      
   right:
     - text: "Home"
       href: index.html
