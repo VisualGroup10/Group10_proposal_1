@@ -58,8 +58,7 @@ Employers.csv, Jobs.csv: contains unique Id of employers and jobs, location of e
 ### 5. Approach
 
 Diagram 1: Process Diagram
-
-'![](image/5.png)'
+![](image/5.png)
 
 The Process Diagram demonstrates the overall process of group project: first, with proper R packages to prepare data and obtain data with structures that we need for the following data exploration; then, we use simple static visualisation methods to get an overview of the patterns for each challenge; last, we use more complicated interactive visualisation methods to explore and demonstrate more detailed information of each challenge. 
 
@@ -84,7 +83,7 @@ To establish the health of the entire industry, one metric to understand is how 
 
 2) Seasonality of F&B consumption 
 
-'![](image/5.2.1.1.png)'
+![](image/5.2.1.1.png)
 
 #### 5.2.1.2 Foot traffic to individual establishments 
 
@@ -94,37 +93,38 @@ Propose manpower plans based on lulls and peaks in business.
 
 Identify potentially floundering businesses by geography or if there is an independence from geography. 
 
-'![](image/5.2.1.2.png)'
-'![](image/5.2.1.2b.png)'
-'![](image/5.2.1.2c.png)'
+![](image/5.2.1.2.png)
+![](image/5.2.1.2b.png)
+![](image/5.2.1.2c.png)
 
 #### 5.2.1.3 Net profit of individual establishments 
 
 Beyond the foot traffic, we also further look to ensure that foot traffic does indeed provide actual revenue to the businesses. We will be looking at a weekly heatmap to identify which periods are the most profitable for the respective businesses to plan their revenue streams. We could potentially identify higher value customers. 
-'![](image/5.2.1.3.png)'
+![](image/5.2.1.3.png)
 
 ##### 5.2.2 Health of Residents 
 
 We will do a breakdown of the typical resident's expenditure (rent, food, entertainment etc.) to understand what the typical resident spends their money on. 
-'![](image/5.2.2.png)'
+![](image/5.2.2.png)
 
 Going a level down, we will then try to understand the savings rate of the sample and see if there is any relationship of wages and expenditure to education level. 
-'![](image/5.2.2b.png)'
+![](image/5.2.2b.png)
 
-We will then endeavour to understand how education spending is related to having kids and education level of individuals '![](image/5.2.2c.png)'
+We will then endeavour to understand how education spending is related to having kids and education level of individuals 
+![](image/5.2.2c.png)
 
 ##### 5.2.3 Health of Employers 
 
 We will be trying to assess the turnover rates of employers by correlating the sample’s job changes with the available employers by location. This might be able to generate some geographic insights, however this is limited due to the high number of companies relative to the sample’s participants 
-'![](image/5.2.3.png)'
+![](image/5.2.3.png)
 
 An indicator of employers longer economic health is the quality of jobs provided. We will be using the wages of jobs offered as an indicator of this. 
-'![](image/5.2.3b.png)'
+![](image/5.2.3b.png)
 
 ### 6. Project Timeline
 
 The project timeline is set as follows:
-'![](image/6.png)'
+![](image/6.png)
 
 ### 7: Software Tool and R packages
 
