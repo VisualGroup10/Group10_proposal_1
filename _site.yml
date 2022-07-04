@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Proposal"
-      href: 'proposal/proposal1.html'
+      href: proposal/proposal1.html
     - text: "Shiny App"
       href: "https://dkwx1234.shinyapps.io/GroupProjectG10/"
     - text: "Poster"
