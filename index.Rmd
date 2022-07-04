@@ -1,7 +1,10 @@
 ---
-title: "Group 10 Vast Challenge 2022 "
+title: "Group 10: Vast Challenge 2022 "
 description: |
-  Welcome to the website. I hope you enjoy it!
+  This study is presented to you by Group 10 under the supervision of Professor Kam.  
+  This app is build in reponse to the Challenge 3 of [`VAST Challenge 2022`](https://vast-challenge.github.io/2022/), Economic considers the financial health of the city.  
+  Our Group makes use of R, R Markdown, Shiny to clean the data, curate the graphs and create the user interaction interface. 
+  
 site: distill::distill_website
 ---
 
@@ -13,3 +16,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+### Professor Introduction
+
+[`Prof Kam Tin Seong`](https://faculty.smu.edu.sg/profile/kam-tin-seong-486)  
+Full-time Faculty
+Associate Professor of Information Systems (Practice)
+
+```{r fig.dim = c(80, 60), echo=FALSE}
+knitr::include_graphics("image/tskam.jpg")
+```
+
+### Team 10 Members Introduction 
+
+[`1. David Kwok`](https://www.linkedin.com/in/david-kwok-b528b79a/)  
+MITB student, nice, kind, hard-working. 
+
+```{r fig.dim = c(40, 30), echo=FALSE}
+knitr::include_graphics("image/david.jfif")
+```
+
+`2. Li Hong Yi` 
+MITB student, smart, friendly and creative. 
+
+
+[`3. Huang Yaping`](https://www.linkedin.com/in/huang-yp/)  
+MITB student, interesting, open-minded, team-player. 
+
+```{r out.width="70%", echo=FALSE}
+knitr::include_graphics("image/yp.jpeg")
+```

@@ -2,13 +2,25 @@
 title: "Introduction"
 description: |
   
-  Our Shiny Application is built based on the Challenge 3 of VAST Challenge 2022. This app helps users to explore the following questions:
-  1) Which businesses appear to be more prosperous? Which appear to be struggling?
-  2) How do wages compare to the overall cost of living in Engagement? Are there groups that appear to exhibit similar patterns?
-  3) Which areas have particularly high or low turnover?
+  Our Shiny Application is built based on the Challenge 3 of [`VAST Challenge 2022`](https://vast-challenge.github.io/2022/). 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This app helps users to explore the following questions regarding the financial health of the city:  
+
+1) Which businesses appear to be more prosperous? Which appear to be struggling? 
+
+The questions is addressed by analyzing the table turn over rate, foot traffic and revenue of restaurants and bars. For other businesses, foot traffic timeline is analysed. Foot Traffic and Revenue are plotted on timeline in the format of cycle chart. 
+  
+2) How do wages compare to the overall cost of living in Engagement? Are there groups that appear to exhibit similar patterns?
+
+The wage and expenditure pattern of the residents is analysed in this part.   
+
+3) Which areas have particularly high or low turnover?
+
+Number of available jobs and employee joviality is analysed to address this questions.  
+
+Please refer to [`Shiny App`](https://dkwx1234.shinyapps.io/GroupProjectG10/) for more information.   

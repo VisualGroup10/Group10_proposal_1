@@ -3,18 +3,18 @@
     {
       "path": "about.html",
       "title": "Introduction",
-      "description": "\nOur Shiny Application is built based on the Challenge 3 of VAST Challenge 2022. This app helps users to explore the following questions:\n1) Which businesses appear to be more prosperous? Which appear to be struggling?\n2) How do wages compare to the overall cost of living in Engagement? Are there groups that appear to exhibit similar patterns?\n3) Which areas have particularly high or low turnover?",
+      "description": "\nOur Shiny Application is built based on the Challenge 3 of [`VAST Challenge 2022`](https://vast-challenge.github.io/2022/). ",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-04T21:21:57+08:00"
+      "contents": "\r\nThis app helps users to explore the following questions regarding the\r\nfinancial health of the city:\r\nWhich businesses appear to be more prosperous? Which appear to be\r\nstruggling?\r\nThe questions is addressed by analyzing the table turn over rate,\r\nfoot traffic and revenue of restaurants and bars. For other businesses,\r\nfoot traffic timeline is analysed. Foot Traffic and Revenue are plotted\r\non timeline in the format of cycle chart.\r\nHow do wages compare to the overall cost of living in Engagement?\r\nAre there groups that appear to exhibit similar patterns?\r\nThe wage and expenditure pattern of the residents is analysed in this\r\npart.\r\nWhich areas have particularly high or low turnover?\r\nNumber of available jobs and employee joviality is analysed to\r\naddress this questions.\r\nPlease refer to Shiny App\r\nfor more information.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-04T22:44:44+08:00"
     },
     {
       "path": "index.html",
-      "title": "Group 10 Vast Challenge 2022 ",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Group 10: Vast Challenge 2022 ",
+      "description": "This study is presented to you by Group 10 under the supervision of Professor Kam.  \nThis app is build in reponse to the Challenge 3 of [`VAST Challenge 2022`](https://vast-challenge.github.io/2022/), Economic considers the financial health of the city.  \nOur Group makes use of R, R Markdown, Shiny to clean the data, curate the graphs and create the user interaction interface. \n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-04T21:23:17+08:00"
+      "contents": "\r\nProfessor Introduction\r\nProf Kam Tin Seong\r\nFull-time Faculty Associate Professor of Information Systems\r\n(Practice)\r\n\r\n\r\n\r\nTeam 10 Members Introduction\r\n1. David Kwok\r\nMITB student, nice, kind, hard-working.\r\n\r\n\r\n\r\n2. Li Hong Yi MITB student, smart, friendly and\r\ncreative.\r\n3. Huang Yaping\r\nMITB student, interesting, open-minded, team-player.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-04T22:45:05+08:00"
     }
   ],
   "collections": []
