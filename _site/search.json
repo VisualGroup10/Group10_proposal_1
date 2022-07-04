@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Introduction",
+      "description": "\nOur Shiny Application is built based on the Challenge 3 of VAST Challenge 2022. This app helps users to explore the following questions:\n1) Which businesses appear to be more prosperous? Which appear to be struggling?\n2) How do wages compare to the overall cost of living in Engagement? Are there groups that appear to exhibit similar patterns?\n3) Which areas have particularly high or low turnover?",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-17T11:44:53+08:00"
+      "last_modified": "2022-07-04T20:40:33+08:00"
     },
     {
       "path": "index.html",
-      "title": "Group 10 Proposal ",
-      "description": "Welcome to the website. I hope you enjoy the proposal!\n",
+      "title": "Group 10 Vast Challenge 2022 ",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-06T13:11:29+08:00"
+      "last_modified": "2022-07-04T21:07:49+08:00"
     }
   ],
   "collections": []

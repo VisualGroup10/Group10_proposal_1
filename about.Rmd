@@ -1,7 +1,11 @@
 ---
-title: "About this site"
+title: "Introduction"
 description: |
-  Some additional details about the website
+  
+  Our Shiny Application is built based on the Challenge 3 of VAST Challenge 2022. This app helps users to explore the following questions:
+  1) Which businesses appear to be more prosperous? Which appear to be struggling?
+  2) How do wages compare to the overall cost of living in Engagement? Are there groups that appear to exhibit similar patterns?
+  3) Which areas have particularly high or low turnover?
 ---
 
 ```{r setup, include=FALSE}

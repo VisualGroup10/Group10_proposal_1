@@ -1,0 +1,15 @@
+---
+title: "Poster"
+description: |
+  Insights we identified through our journey
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r fig.dim = c(80, 60), echo=FALSE}
+knitr::include_graphics("image/Poster.png")
+```
+
